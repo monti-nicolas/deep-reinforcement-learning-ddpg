@@ -22,6 +22,7 @@ On this repository you will find the following:
 <br>
 <br>
 <br>
+
 ## Python Environment Setup
 
 To set up your python environment to run the code in this repository, follow the instructions below.
