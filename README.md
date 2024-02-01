@@ -18,7 +18,7 @@ On this repository you will find the following:
 * Continuous_Control.ipynb: Contains all the code that was used to successfully trained the agents that were able to solve this environment.
 * checkpoint_actor_ddpg.pth: The saved model weights for the actor neural network.
 * checkpoint_critic_ddpg.pth: The saved model weights for the critic neural network.
-* Report.pdf: Provides a description of the implementation.
+* A DDPG Implementation Report.pdf: Provides a description of the implementation.
 <br>
 <br>
 <br>
