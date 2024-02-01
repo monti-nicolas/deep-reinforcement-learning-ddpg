@@ -20,8 +20,7 @@ On this repository you will find the following:
 * checkpoint_critic_ddpg.pth: The saved model weights for the critic neural network.
 * A DDPG Implementation Report.pdf: Provides a description of the implementation.
 <br>
-<br>
-<br>
+
 
 ## Python Environment Setup
 
